@@ -1,0 +1,11 @@
+mtcnn
+numpy
+pandas
+tensorflow
+keras
+scikit-learn
+opencv-python
+h5py
+matplotlib
+Pillow
+ultralytics
